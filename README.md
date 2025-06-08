@@ -12,7 +12,7 @@ Humidity (in %)
 
 
 
-_**Features:**_
+<ins>_**Features:**_</ins>
 
 ✅ Humidifier Control
 

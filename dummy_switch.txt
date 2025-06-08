@@ -1,0 +1,14 @@
+switch:
+  - platform: template
+    switches:
+      dummy_switch:
+        friendly_name: "Dummy Switch"
+        value_template: "off"
+        turn_on:
+          service: homeassistant.turn_on
+          data:
+            entity_id: switch.dummy_switch
+        turn_off:
+          service: homeassistant.turn_off
+          data:
+            entity_id: switch.dummy_switch

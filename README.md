@@ -10,6 +10,7 @@ Temperature (in °C)
 Humidity (in %)
 
 Features
+
 ✅ Humidifier Control
 
 Turns ON when VPD exceeds the threshold.

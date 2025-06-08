@@ -1,4 +1,5 @@
 **VPD and Temperature-Based Controller for Humidifier, Cooler, Heater, and Dehumidifier**
+
 Overview
 This Home Assistant Blueprint controls a humidifier, cooler, heater, and dehumidifier as simple On/Off switches, independently based on:
 

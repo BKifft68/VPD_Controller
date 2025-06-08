@@ -9,7 +9,8 @@ Temperature (in °C)
 
 Humidity (in %)
 
-Features
+
+Features:
 
 ✅ Humidifier Control
 
